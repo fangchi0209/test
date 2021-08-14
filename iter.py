@@ -18,10 +18,7 @@ a = MyData(5)
 
 print(next(a))
 print(next(a))
-print(next(a))
-print(next(a))
-print(next(a))
-print(next(a))
+
 # for x in MyData(5):
 	# print(x)
 
